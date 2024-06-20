@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a" alt="a" /></a> </p>
 
-- 🌱 I’m currently learning **a**
+- 🌱 I’m currently learning **Mern Stack**
 
-- 💬 Ask me about **a**
+- 💬 Ask me about **I am **
 
-- 📫 How to reach me **a**
+- 📫 How to reach me **desaiatharva20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
