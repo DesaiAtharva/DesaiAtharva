@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 💬 Ask me about **I am **
+- 💬 Passionate and detail-oriented frontend developer with a solid foundation in HTML, CSS, and JavaScript.
 
 - 📫 How to reach me **desaiatharva20@gmail.com**
 
